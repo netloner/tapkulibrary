@@ -1,4 +1,7 @@
 # xcode noise
+universaldemo/universaldemo.xcodeproj/xcuserdata/netloner.xcuserdatad/
+universaldemo/universaldemo.xcodeproj/project.xcworkspace/xcuserdata/netloner.xcuserdatad/
+src/TapkuLibrary.xcodeproj/xcuserdata/netloner.xcuserdatad/
 build
 TapkuLibrary/build/**
 TapkuLibraryDemo/build/**
